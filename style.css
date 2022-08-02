@@ -18,7 +18,7 @@ h1.topheader {
 }
 
 #qrcodes {
-    padding: 5rem;
+    padding: 12px;
 }
 
 .center {
@@ -33,4 +33,16 @@ small {
 
 .container {
     width: 90%;
+}
+
+/* .laundryphotos {
+    height: 400px;
+    width: 600px;
+} */
+
+#photos {
+    max-width: 50%;
+    max-height: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
