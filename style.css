@@ -17,8 +17,13 @@ h1.topheader {
     top: 15px;
 }
 
-#qrcodes {
-    padding: 12px;
+.qrcodes {
+    width: 50%;
+    gap: 2px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    flex-direction: row;
 }
 
 .center {
