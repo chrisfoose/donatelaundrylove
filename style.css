@@ -33,6 +33,11 @@ small {
 
 .container {
     width: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 5px 5px;
 }
 
 /* .laundryphotos {
