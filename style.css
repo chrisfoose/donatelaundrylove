@@ -1,3 +1,7 @@
+body {
+    background-image: url(triangles_pattern.webp);
+}
+
 .img-center {
     display: block;
     margin-left: auto;
