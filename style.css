@@ -2,6 +2,16 @@ body {
     background-image: url(triangles_pattern.webp);
 }
 
+.navbar-brand {
+    font-family: 'Finger Paint', cursive;
+    color: rgb(29, 216, 23);
+    font-size: xx-large;
+}
+
+navbar-brand:hover {
+    color: whitesmoke;
+}
+
 .img-center {
     display: block;
     margin-left: auto;
